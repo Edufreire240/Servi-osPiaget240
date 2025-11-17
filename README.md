@@ -13,5 +13,5 @@ Site de apresentação do software PiagetManagement, desenvolvido para a Univers
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/SeuUsuario/PiagetManagement-Site.git>
+   git clone <https://github.com/Edufreire240/Servi-osPiaget240.git>
 
